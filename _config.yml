@@ -1,5 +1,5 @@
 # Site settings
-title:骆司南的家
+title:My Home
 email:luosn888@163.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/luosinan" # the subpath of your site, e.g. /blog/
